@@ -1,7 +1,7 @@
 # learn-github
 
 This is for tutourial practice based on eduraka's github course.
-,creating local and remote repositors
+creating a local and remote repositors
 ,syncing repositors
 ,making changes 
 ,branching, merging. rebasing
